@@ -1,0 +1,8 @@
+[package]
+name = "wield"
+version = "0.1.0"
+authors = ["George Kulakowski <george.kulakowski@gmail.com>"]
+edition = "2018"
+description = "wield"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/kulakowski/wield.git"
